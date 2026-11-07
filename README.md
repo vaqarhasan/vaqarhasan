@@ -17,7 +17,7 @@ Building secure, scalable, and reliable cloud-native platforms through automatio
 
 ## 👨‍💻 About Me
 
-- DevOps and platform engineering professional with **10+ years** across system administration, DevOps, DevSecOps, and Site Reliability Engineering — including hands-on modernization of legacy applications to **Red Hat OpenShift and Kubernetes**.
+- DevOps and platform engineering professional with **10+ years** across system administration, DevOps, DevSecOps, and Site Reliability Engineering (SRE) - including hands-on modernization of legacy applications to **Red Hat OpenShift and Kubernetes**.
 - Automation-first operator focused on secure CI/CD, GitOps delivery, infrastructure as code, and production observability.
 - Experienced collaborating with application, security, and infrastructure teams in enterprise environments.
 - Based in **Greater Toronto Area, Ontario, Canada**.
@@ -41,7 +41,7 @@ Building secure, scalable, and reliable cloud-native platforms through automatio
 | DevSecOps | GitLeaks, Talisman, Trivy, Dastardly, Aqua, SonarQube |
 | Monitoring & SRE | Prometheus, PromQL, Grafana, Azure Monitor, Gremlin, Litmus |
 | Build & artifact management | Maven, NPM, Go Build, Nexus, JFrog Artifactory |
-| Operating systems | Red Hat Enterprise Linux, Linux, Windows |
+| Operating systems | Red Hat Enterprise Linux, Windows |
 
 ## 🚀 Selected Impact
 
