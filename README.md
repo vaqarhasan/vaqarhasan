@@ -8,6 +8,8 @@ Building secure, scalable, and reliable cloud-native platforms through automatio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaqarhasan)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaqarhasan@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/TheEpicCoder)
+[![Docker](https://img.shields.io/badge/Docker-Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/vaqarhasan)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=OpenShift+%7C+Kubernetes+Platform+Engineering;DevOps+%7C+DevSecOps+%7C+SRE;Infrastructure+as+Code+%7C+GitOps+%7C+Automation" alt="Typing SVG" />
 
