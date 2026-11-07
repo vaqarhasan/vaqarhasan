@@ -1,6 +1,8 @@
+A passionate DevOps Engineer from Canada, working on Cloud and DevOps, DevSecOps and SRE for 10+ years now.
+Feel free to reach out for any freelance projects
+<!--
 ## Hi there 👋
 
-<!--
 **vaqarhasan/vaqarhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
