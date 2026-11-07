@@ -20,7 +20,7 @@ Building secure, scalable, and reliable cloud-native platforms through automatio
 - DevOps and platform engineering professional with **10+ years** across system administration, DevOps, DevSecOps, and Site Reliability Engineering — including hands-on modernization of legacy applications to **Red Hat OpenShift and Kubernetes**.
 - Automation-first operator focused on secure CI/CD, GitOps delivery, infrastructure as code, and production observability.
 - Experienced collaborating with application, security, and infrastructure teams in enterprise environments.
-- Based in **Brampton, Ontario, Canada**.
+- Based in **Greater Toronto Area, Ontario, Canada**.
 
 ## 🧰 What I Work With
 
@@ -59,17 +59,6 @@ Building secure, scalable, and reliable cloud-native platforms through automatio
 - Red Hat Ansible Automation
 - Red Hat Certified System Administrator / Engineer (RHCSA/RHCE)
 - Azure DevOps Engineer
-
-## 📊 GitHub Snapshot
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vaqarhasan&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaqarhasan&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=vaqarhasan&hide_border=true&theme=tokyonight" alt="GitHub contribution streak" />
-
-</div>
 
 ## 📫 Let's Connect
 
