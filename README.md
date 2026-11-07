@@ -37,14 +37,14 @@ Building secure, scalable, and reliable cloud-native platforms through automatio
 
 | Area | Technologies |
 |---|---|
-| Container orchestration | Red Hat OpenShift, Kubernetes, AKS, ARO, Docker, Podman |
-| GitOps & delivery | Argo CD, Helm, Jenkins, Azure Pipelines, GitHub Actions |
-| Infrastructure as Code | Terraform, ARM templates, Bicep |
-| Configuration & scripting | Ansible, Bash/Shell, Python, Azure CLI |
+| Container Orchestration | Red Hat OpenShift, Kubernetes, AKS, ARO, Docker, Podman |
+| GitOps | Argo CD, Helm, Jenkins, Azure Pipelines, GitHub Actions |
+| Infrastructure as Code (IaC) | Terraform, ARM templates, Bicep |
+| Configuration & Scripting | Ansible, Bash/Shell, Python, Azure CLI |
 | DevSecOps | GitLeaks, Talisman, Trivy, Dastardly, Aqua, SonarQube |
 | Monitoring & SRE | Prometheus, PromQL, Grafana, Azure Monitor, Gremlin, Litmus |
-| Build & artifact management | Maven, NPM, Go Build, Nexus, JFrog Artifactory |
-| Operating systems | Red Hat Enterprise Linux, Windows |
+| Build & Artifact Management | Maven, NPM, Go Build, Nexus, JFrog Artifactory |
+| Operating Systems | Red Hat Enterprise Linux (RHEL), Windows |
 
 ## 🚀 Selected Impact
 
