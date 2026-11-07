@@ -1,4 +1,4 @@
-A passionate DevOps Engineer from Canada, working on Cloud and DevOps, DevSecOps and SRE for 10+ years now.
+A passionate DevOps Engineer from Canada, working on Cloud and DevOps, DevSecOps and SRE for 10+ years now. <br>
 Feel free to reach out for any freelance projects
 <!--
 ## Hi there 👋
