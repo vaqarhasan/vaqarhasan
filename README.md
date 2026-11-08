@@ -8,7 +8,7 @@ Building secure, scalable, and reliable cloud-native platforms through automatio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaqarhasan)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaqarhasan@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-epiccoder__46962-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/epiccoder_46962)
+[![Discord](https://img.shields.io/badge/Discord-vaqar_hasan?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/vaqar_hasan)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/TheEpicCoder)
 [![Docker](https://img.shields.io/badge/Docker-Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/vaqarhasan)
 [![Credly](https://img.shields.io/badge/Credly-Verified_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/vaqar-hasan)
