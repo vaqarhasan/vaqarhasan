@@ -60,7 +60,7 @@ Building secure, scalable, and reliable cloud-native platforms through automatio
 
 <div align="center">
 
-[![CKA](https://img.shields.io/badge/CKA-Certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/a970e4b3-aa63-48d7-b971-129006838d6e)
+[![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Admin-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/a970e4b3-aa63-48d7-b971-129006838d6e)
 [![OpenShift](https://img.shields.io/badge/OpenShift-Administration-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)](https://rhtapps.redhat.com/verify?certId=200-169-365)
 [![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://rhtapps.redhat.com/verify?certId=200-169-365)
 [![Red Hat Linux: RHCSA/RHCE](https://img.shields.io/badge/RHCSA%2FRHCE-Certified-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://rhtapps.redhat.com/verify?certId=200-169-365)
