@@ -19,14 +19,14 @@ Building secure, scalable, and reliable cloud-native platforms through automatio
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me:
 
 - DevOps and platform engineering professional with **10+ years** across system administration, DevOps, DevSecOps, and Site Reliability Engineering (SRE) - including hands-on modernization of legacy applications to **Red Hat OpenShift and Kubernetes**.
 - Automation-first operator focused on secure CI/CD, GitOps delivery, infrastructure as code, and production observability.
 - Experienced collaborating with application, security, and infrastructure teams in enterprise environments.
 - Based in **Greater Toronto Area, Ontario, Canada**.
 
-## 🧰 What I Work With
+## 🧰 What I Work With:
 
 <div align="center">
 
@@ -47,7 +47,7 @@ Building secure, scalable, and reliable cloud-native platforms through automatio
 | Build & Artifact Management | Maven, NPM, Go Build, Nexus, JFrog Artifactory |
 | Operating Systems | Red Hat Enterprise Linux (RHEL), Windows |
 
-## 🚀 Selected Impact
+## 🚀 Selected Impact:
 
 - Supported modernization of legacy applications from virtual machines to containerized environments on **Red Hat OpenShift**.
 - Implemented **Helm and Argo CD GitOps workflows**, contributing to a **25% reduction in deployment errors**.
@@ -56,7 +56,7 @@ Building secure, scalable, and reliable cloud-native platforms through automatio
 - Administered OpenShift platform resources including projects, namespaces, deployments, services, routes, and persistent volumes.
 - Integrated code-quality and repository-secret scanning into delivery workflows, and designed resilient infrastructure with Terraform, Bicep, and Velero-based disaster recovery.
 
-## 🏅 Certifications
+## 🏅 Certifications:
 
 <div align="center">
 
@@ -68,11 +68,11 @@ Building secure, scalable, and reliable cloud-native platforms through automatio
 
 </div>
 
-## 🛡️ Security Clearance
+## 🛡️ Security Clearance:
 
 - **Government of Canada** - Secret / Enhanced Clearance
 
-## 📫 Let's Connect
+## 📫 Let's Connect:
 
 I'm interested in opportunities and conversations around **OpenShift, Kubernetes, Platform Engineering, DevOps, DevSecOps, and SRE**.
 
