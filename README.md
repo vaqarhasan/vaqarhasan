@@ -62,7 +62,7 @@ Building secure, scalable, and reliable cloud-native platforms through automatio
 
 [![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Admin-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/a970e4b3-aa63-48d7-b971-129006838d6e)
 [![OpenShift](https://img.shields.io/badge/OpenShift-Red_Hat_Certified_Specialist_in_OpenShift_Admin-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)](https://rhtapps.redhat.com/verify?certId=200-169-365)
-[![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://rhtapps.redhat.com/verify?certId=200-169-365)
+[![Ansible](https://img.shields.io/badge/Ansible-Red_Hat_Certified_Specialist_in_Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://rhtapps.redhat.com/verify?certId=200-169-365)
 [![Red Hat Linux: RHCSA/RHCE](https://img.shields.io/badge/RHCSA%2FRHCE-Certified-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://rhtapps.redhat.com/verify?certId=200-169-365)
 [![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-Engineer_Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-ca/VaqarHasan-0317/BC13621AB5977CCA?sharingId=3561AFC00263E361)
 
